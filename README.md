@@ -1,7 +1,5 @@
 # pratikum2
 
-# praktikum2
-
 
 ##latihan1.cpp : program menghitung bilangan terbesar dari 3 bilang
 
